@@ -16,9 +16,11 @@
 <script src="../js/bootstrap/bootstrap.bundle.js"></script>
 <script src="../js/font-awesome/all.js"></script>
 <script src="../js/jquery-3.6.0.min.js"></script>
+<script src="../js/toastui-editor-all.js"></script>
 
 <!-- Styles Sheet -->
 <link rel="stylesheet" href="../css/arc.css">
+<link rel="stylesheet" href="../css/toastui-editor.css">
 <link rel="stylesheet" href="../css/bootstrap/bootstrap.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="../css/font-awesome/all.css" >

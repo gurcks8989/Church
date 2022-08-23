@@ -12,4 +12,9 @@ public class MainController {
 	public String home(Model model) {
         return "main" ;
     }
+	
+	@RequestMapping(value = "/lab", method = RequestMethod.GET)
+	public String lab(Model model) {
+        return "component" ;
+    }
 }
